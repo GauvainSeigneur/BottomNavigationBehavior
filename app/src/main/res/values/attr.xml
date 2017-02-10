@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigationViewBehavior_Params">
+        <attr name="behavior_hideable"                  format="boolean"  />
+        <attr name="behavior_shift_mode"                format="boolean"  />
+        <attr name="behavior_multiple_color_reveal"     format="boolean"  />
+    </declare-styleable>
+</resources>
