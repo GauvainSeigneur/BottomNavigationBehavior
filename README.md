@@ -19,9 +19,8 @@ I define a behavior wich is like bottomsheetbehavior when it's hiding or expdand
 
 * Correct bug when snackbar is dimissed on swipe
 * Coorect FAB bug when scnackbar is dimissied
-* Circular background color reveal
 * Disable shiftmode by xml parameter
-* Add behavior and a simple method to allows circular reveal background color change on item click
+* Add behavior and a simple method to allow circular reveal background color change on item click
 
 ## Screenshot
 
