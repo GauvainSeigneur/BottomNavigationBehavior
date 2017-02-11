@@ -2,9 +2,10 @@
     <string name="app_name">BottomNavigationViewBehavior</string>
 
     <string name="bottomnav_menu_title_item_0">Book</string>
-    <string name="bottomnav_menu_title_item_1">Favorite</string>
-    <string name="bottomnav_menu_title_item_2">Notification</string>
-    <string name="bottomnav_menu_title_item_3">Account</string>
+    <string name="bottomnav_menu_title_item_1">Music</string>
+    <string name="bottomnav_menu_title_item_2">Favorite</string>
+    <string name="bottomnav_menu_title_item_3">Notification</string>
+    <string name="bottomnav_menu_title_item_4">Account</string>
 
      <string name="large_text">
         "Material is the metaphor.\n\n"

@@ -13,9 +13,17 @@ I define a behavior wich is like bottomsheetbehavior when it's hiding or expdand
 * Hide/expand on scroll
 * Fixed mode
 * Manage snackbar and FAB in all state (expanded, hidden or settling)
+* A helper to disable shiftmode
 
 ## TODO
 
-* Correct bug of fab when snackbar is dimissed
+* Correct bug when snackbar is dimissed on swipe
+* Coorect FAB bug when scnackbar is dimissied
 * Circular background color reveal
-* Disable shift by xml parameter
+* Disable shiftmode by xml parameter
+* Add behavior and a simple method to allows circular reveal background color change on item click
+
+## Screenshot
+
+![alt text](screenshot/gif1.gif "gif 1")
+![alt text](screenshot/gif2.gif "gif 2")
