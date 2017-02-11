@@ -2,7 +2,7 @@
 
 ## Synopsis 
 
-I use BottomNavigationWidget but Google doesn't provide behavior like we can see in Google Material Guidelines. So I Made a behavior and applied it on BottomNavigationView.
+I use BottomNavigationWidget but Google doesn't provide behavior like we can see in (Google Material Guidelines [Bottom Navigation](https://material.io/guidelines/components/bottom-navigation.html)). So I Made a behavior and applied it on BottomNavigationView.
 
 ## How
 
